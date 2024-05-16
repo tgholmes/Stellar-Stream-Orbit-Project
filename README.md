@@ -1,8 +1,11 @@
-Project completed in semester 1 of year 3 of Physics course at University of Surrey (September - November 2023). 
+# Stellar Stream Orbit Integrators
 
-It aims to understand different orbit integrators, and how their behaviour in phase space reveal a more accurate orbit of stellar streams.
-It does not use real-data, but instead runs a simulation given basic starting parameters such as position and velocity (3D). Different integrators are then trialled, seeing how well they conserve energy and accurately represent stellar stream orbits
-Euler and Kick-Drift-Kick are the main integrators being investigated. See report document for a write-up of the findings.
+Project completed in semester 1 of year 3 of Physics course at University of Surrey (September - November 2023).
 
-This code was one of my first 'long-term' projects and it is not the most efficient it can be as was a results-driven project that was not intensive on run-time.
-For that reason, I don't feel as if it best represents my coding abilities seen in more recent projects, but it was certainly an enjoyable, and informative, project.
+## Overview
+
+The aim of this project is to understand different orbit integrators and how their behavior in phase space reveals a more accurate orbit of stellar streams. It does not use real data but instead runs a simulation with basic starting parameters such as position and velocity (3D). Different integrators are then trialed to see how well they conserve energy and accurately represent stellar stream orbits. Euler and Kick-Drift-Kick are the main integrators being investigated. For more details, refer to the report document for a write-up of the findings.
+
+## Note
+
+This code was one of my first 'long-term' projects and may not be the most efficient as it was results-driven and not intensive on run-time. While it may not fully represent my current coding abilities, it was certainly an enjoyable and informative project.
